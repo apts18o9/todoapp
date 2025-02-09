@@ -19,4 +19,4 @@ This app uses user's localstorage function to store all the previous inputs and 
 This allows user to see what are the previous tasks.
 
 ### Edit and Save
-User can perform CRUD operations easily.
+User can perform CRUD operations easily without having any issues.
